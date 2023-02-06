@@ -1,0 +1,8 @@
+# custom_module_page:
+#   path:'custom_module_page'
+#   defaults:
+#     _controller: '\Drupal\custom_module\Controller\Custom_moduleController::custom_module'
+#     _title: 'My custom page in Drupal'
+#     requirements:
+#       _permission: 'access content'
+
